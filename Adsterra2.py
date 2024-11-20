@@ -40,7 +40,7 @@ def scrape_data (OOOO00O0000OOOOOO ):#line:41
         logging .error (f'Error during scraping: {O00OO00OOOO00000O}')#line:52
         return None #line:53
 def main ():#line:55
-    OOOOO0O00O0O0000O =read_target_urls ('target_url.txt')#line:56
+    OOOOO0O00O0O0000O =read_target_urls ('target_url2.txt')#line:56
     O00OO0OO0000OO00O =read_user_agents ('user_agents.txt')#line:57
     OO0OOO0O000000O00 =[]#line:58
     while True :#line:60
